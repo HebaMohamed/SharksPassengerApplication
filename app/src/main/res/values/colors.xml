@@ -11,5 +11,8 @@
     <color name="darkgray">#333b41</color>
     <color name="lightgray">#d4d3d3</color>
 
+    <color name="halfColorPrimary">#7f00428d</color>
+
+
     <color name="white">#fff</color>
 </resources>
