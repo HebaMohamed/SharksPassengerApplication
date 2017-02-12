@@ -70,7 +70,8 @@
             android:label="@string/title_activity_arriving" />
         <activity android:name=".InTripActivity" />
         <activity android:name=".TripEndActivity" />
-        <activity android:name=".TalkActivity"></activity>
+        <activity android:name=".TalkActivity" />
+        <activity android:name=".LastTripsActivity"></activity>
     </application>
 
 </manifest>
