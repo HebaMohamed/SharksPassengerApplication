@@ -71,7 +71,12 @@
         <activity android:name=".InTripActivity" />
         <activity android:name=".TripEndActivity" />
         <activity android:name=".TalkActivity" />
-        <activity android:name=".LastTripsActivity"></activity>
+        <activity android:name=".LastTripsActivity" />
+        <activity android:name=".LastTripDetailsActivity" />
+        <activity
+            android:name=".MainMapActivity"
+            android:label="@string/title_activity_main_map"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

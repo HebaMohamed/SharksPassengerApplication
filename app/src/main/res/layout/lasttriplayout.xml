@@ -20,6 +20,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:id="@+id/disttxt"
             android:text="tbgtrgvr thrgt"
             android:gravity="left"
             android:padding="5dp"
@@ -27,6 +28,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:id="@+id/starttxt"
             android:text="00/00/0000 00:00AM"
             android:layout_gravity="right"
             android:gravity="right"
