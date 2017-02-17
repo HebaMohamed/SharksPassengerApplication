@@ -162,7 +162,7 @@
         android:id="@+id/donebtn"
         android:layout_width="match_parent"
         android:layout_height="40dp"
-        android:text="Done"
+        android:text="Funded, End Trip"
         android:textColor="#fff"
         android:padding="7dp"
         android:textSize="17dp"
