@@ -9,9 +9,9 @@
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="130dp"
         android:id="@+id/mapimg"
-        android:scaleType="centerInside"
+        android:scaleType="centerCrop"
         android:src="@drawable/staticmap"/>
 
     <TextView
@@ -36,7 +36,7 @@
             android:paddingTop="7dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:scaleType="center"
+            android:scaleType="centerCrop"
             android:src="@drawable/routepin"/>
 
         <LinearLayout

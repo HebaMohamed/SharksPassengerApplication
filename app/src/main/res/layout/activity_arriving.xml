@@ -117,11 +117,12 @@
         android:id="@+id/startbtn"
         android:layout_width="200dp"
         android:layout_height="40dp"
-        android:text="Start trip"
+        android:text="Add Destination"
         android:textColor="#fff"
         android:padding="7dp"
         android:textSize="17dp"
         android:layout_below="@+id/linearLayout4"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp" />
 
 </RelativeLayout>
